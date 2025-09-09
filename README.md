@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Sambit
 
-<!--
-**KARNA-69/KARNA-69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Name:** Sambit
+- **Background:** Enthusiastic developer with a strong foundation in Python, SQL, and TypeScript.
+- **Expertise:** Data Science, Artificial Intelligence, and modern AI tools.
+- **AI Tools:** Experienced with Napkin AI, Gamma AI, Merlin AI, and more.
+
+## 🛠️ Skills
+
+- **Programming Languages:**  
+  ![Python](https://img.shields.io/badge/-Python-blue?logo=python)  
+  ![SQL](https://img.shields.io/badge/-SQL-lightgrey?logo=postgresql)  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript)
+
+- **Data Science:**  
+  Data analysis, visualization, and machine learning.
+
+- **AI Tools:**  
+  Napkin AI, Gamma AI, Merlin AI, and other productivity/automation platforms.
+
+## 📈 Interests
+
+- Data Science & Analytics  
+- Artificial Intelligence & Machine Learning  
+- Automation & Productivity Tools  
+- Open Source Collaboration
+
+## 📫 Contact
+
+- **Email:** [your.sambitganguly2005@gmail.com](mailto:your.sambitganguly2005@gmail.com)
+
+---
+
+> “Always learning, always building.”
+
+Feel free to explore my repositories
