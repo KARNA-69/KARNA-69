@@ -29,11 +29,7 @@ Welcome to my GitHub profile!
 - Automation & Productivity Tools  
 - Open Source Collaboration
 
-## 📫 Contact
-
-- **Email:** [your.sambitganguly2005@gmail.com](mailto:your.sambitganguly2005@gmail.com)
-
----
+----
 
 > “Always learning, always building.”
 
