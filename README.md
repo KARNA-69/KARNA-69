@@ -22,6 +22,10 @@ Welcome to my GitHub profile!
 - **AI Tools:**  
   Napkin AI, Gamma AI, Merlin AI, and other productivity/automation platforms.
 
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,python,c,ts,linux,java/>
+</p>
+
 ## 📈 Interests
 
 - Data Science & Analytics  
